@@ -7,7 +7,7 @@ const Footer = () => {
 
     <div className="flex items-center justify-around p-2 mobile:flex-col mobile:items-start">
       <div className="flex-1 flex flex-col flex-wrap p-2">
-        <h1 className="text-[25px]">Fashion Design</h1>
+        <h1 className="text-[25px]">Fashion Design Center</h1>
         <p>
           Lorem ipsum dolor sit amet consectetur, adipisicing elit. Voluptatem
           soluta quis porro eveniet. Nulla modi, quas unde eaque vel, quaerat
